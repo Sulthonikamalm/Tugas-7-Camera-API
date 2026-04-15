@@ -68,5 +68,8 @@ Langkah-langkah untuk menjalankan repositori ini pada perangkat mobile:
    ```bash
    flutter run
    ```
+<img width="721" height="981" alt="image" src="https://github.com/user-attachments/assets/0f234c66-d062-4e14-8b3d-47d42f88d079" />
+<img width="727" height="990" alt="image" src="https://github.com/user-attachments/assets/0c742735-48f0-41ab-b462-a9cda6a754b8" />
+
 
 
