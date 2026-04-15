@@ -1,4 +1,4 @@
-# -Tugas-7-Camera-API
+# Tugas-7-Camera-API
 
 ## Identitas
 
